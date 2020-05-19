@@ -22,6 +22,42 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="07ee73d3-8969-4bf9-a3a8-26bdb418b511"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        content="TIENDAS CON DISPONIBILIDAD DE TALLAS GRANDES"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="60"
+          width="181"
+          height="97"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="bfd646b9-9e39-4eba-9c36-745cb6dda063"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ff8080"
+        content="CONTAR CON RELACIONES CON SASTRES PROFESIONALES"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="204"
+          width="181"
+          height="109"/>
+    </children>
+    <properties
+        key="we"
+        value="wer"/>
+    <properties
+        key="we"
+        value="ff"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -39,6 +75,66 @@
         y="12"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="dcb04072-e42e-4280-aa9b-93fa2f7825ec"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        content="FACILIDAD DE PAGO"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="48"
+          width="181"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="9b26c642-12f7-4af3-8039-cca46203c989"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        content="ASESORAMIENTO A ALIADOS"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="108"
+          width="181"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="c71574e0-ac88-401f-addb-b3357620106e"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        content="PERSONALIZACIÓN A CLIENTES"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="168"
+          width="181"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e75f75be-fbb0-4250-bb29-d3d29729fe5f"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#f7c4c4"
+        content="SOPORTE A CLIENTES Y ALIADOS"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="228"
+          width="180"
+          height="51"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -56,6 +152,36 @@
         y="300"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="6099e2e2-e0d3-4480-9745-f44258bc900d"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#c6d8fa"
+        content="PLATAFORMA TECNOLÓGICA CLOUD"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="60"
+          width="181"
+          height="73"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="b80f57c1-a8ed-41ad-b814-b0fea5569e9b"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#eec8fb"
+        content="MANTENIMIENTO DE APLICATIVO"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="144"
+          width="181"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -73,6 +199,51 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="1f2cd1c0-9b60-499d-a737-afbbea9bffea"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#d5ff95"
+        content="INCLUSIÓN SOCIAL"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="36"
+          y="60"
+          width="159"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="536c9a55-7ad4-4599-8832-2e96670667cb"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        content="COMODIDAD EN LA INTERACCIÓN CON LA APP"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="36"
+          y="144"
+          width="159"
+          height="73"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="2a3311f8-9871-4265-978f-9bc0c9c721c2"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        content="APLICATIVO MÓVIL DE BÚSQUEDA DE ROPA IDEAL"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="36"
+          y="240"
+          width="159"
+          height="85"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -90,6 +261,37 @@
         y="12"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e5fa5254-d47c-4339-8e94-1ab8665b9df1"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#400040"
+        fillColor="#80ff00"
+        content="SEGUIMIENTO EN VENTAS"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="23"
+          y="60"
+          width="169"
+          height="48"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="a0cfe83c-c809-4d14-ae86-4aa1e80386b6"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#f7c4c4"
+        content="SOPORTE"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="120"
+          width="168"
+          height="36"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -107,6 +309,66 @@
         y="300"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="95833063-d95c-4e2a-b929-51b288ff2fe6"
+        font="1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#c6f9c6"
+        content="PÁGINA WEB"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="48"
+          width="181"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="a92bfaf1-9c07-4f5c-88b4-5ad89081eba3"
+        font="1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#c6f9c6"
+        content="APLICATIVO MÓVIL"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="108"
+          y="120"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="bfd49b15-f882-4181-a309-bc52e940727f"
+        font="1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#c6f9c6"
+        content="EMAIL"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="77"
+          y="192"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="2e009031-97c2-4006-b64e-a3a8a25b59f1"
+        font="1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#c6f9c6"
+        content="REDES SOCIALES"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="120"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -124,6 +386,51 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="c972a181-a347-4b16-893b-8eb8a0134eaf"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        content="MUJERES DE TALLA GRANDE"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="72"
+          width="181"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="1ddf2b86-c589-4ded-9cb1-7bb8896f670e"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffa093"
+        content="FEMENINAS MAYORES DE 14+"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="156"
+          width="181"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="8442eff9-b4bb-4287-9295-a2b1cc2a0b50"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#c6f9f7"
+        content="SECTOR B-C-D"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="252"
+          width="181"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -141,6 +448,36 @@
         y="588"
         width="570"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="f63348a2-697d-4a43-916e-0e707740e462"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#eec8fb"
+        content="PAGO A DESARROLLADORES"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="24"
+          width="253"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="c8daa69c-5753-47f2-bed0-766a16c3cbc0"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#d5ff95"
+        content="PAGO A SERVICIOS CLOUD"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="96"
+          width="253"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -159,6 +496,51 @@
         y="588"
         width="572"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="38d5c490-42bd-4851-b0fa-7784b5033b90"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#f8c491"
+        content="COMISIONES A TIENDAS POR PRODUCTO VENDIDO"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="36"
+          width="217"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="bb64f79d-432a-46cc-85f5-a8ee1f4d69ad"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#8080ff"
+        content="COMISIONES A SASTRES POR SERVICIO PRESTADO"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="96"
+          width="217"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="5dad9082-5cda-481a-af52-aa5a6b455638"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        content="PUBLICIDAD"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="264"
+          y="36"
+          width="132"
+          height="48"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
